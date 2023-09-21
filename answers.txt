@@ -1,0 +1,16 @@
+404 lab2 questions
+1. Use the socket.SOCK_sTREAM
+
+2. client initialises the connection, the server listens to the connection
+client makes request, server responds
+
+3. s.setsocketopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1) 
+set reuse addr to 1 --> lets us reuse the bind port
+any other socket can bind to the port.
+if server crashes, another person can use the port
+
+4. clients IP and port
+
+5. empty byte string
+
+6. 
