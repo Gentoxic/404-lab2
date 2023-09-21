@@ -13,4 +13,4 @@ if server crashes, another person can use the port
 
 5. empty byte string
 
-6. 
+6. https://github.com/Gentoxic/404-lab2/tree/master
